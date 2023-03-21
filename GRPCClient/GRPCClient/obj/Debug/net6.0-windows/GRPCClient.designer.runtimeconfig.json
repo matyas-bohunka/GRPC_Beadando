@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "net6.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\K48M9L\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\K48M9L\\.nuget\\packages",
+      "D:\\Visual Studio tools and sdk\\NuGetPackages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

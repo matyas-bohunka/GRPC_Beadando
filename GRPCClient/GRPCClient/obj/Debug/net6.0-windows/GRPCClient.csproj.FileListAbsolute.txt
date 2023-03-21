@@ -1,0 +1,69 @@
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.exe
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.deps.json
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.runtimeconfig.json
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\ref\GRPCClient.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.pdb
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.AssemblyReference.cache
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.Form1.resources
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.GenerateResource.cache
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.AssemblyInfoInputs.cache
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.AssemblyInfo.cs
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.CoreCompileInputs.cache
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.CopyComplete
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\ref\GRPCClient.dll
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.pdb
+C:\Users\Denis Utassy\Desktop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.genruntimeconfig.cache
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.exe
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.deps.json
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.runtimeconfig.json
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.dll
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.pdb
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.AssemblyReference.cache
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.Form1.resources
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.GenerateResource.cache
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.AssemblyInfoInputs.cache
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.AssemblyInfo.cs
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.CoreCompileInputs.cache
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.CopyComplete
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.dll
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\refint\GRPCClient.dll
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.pdb
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.genruntimeconfig.cache
+C:\Users\K48M9L\Desktop\vizsga-grpc-master\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\ref\GRPCClient.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.exe
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.deps.json
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.runtimeconfig.json
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\GRPCClient.pdb
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.AssemblyReference.cache
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.Form1.resources
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.GenerateResource.cache
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.AssemblyInfoInputs.cache
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.AssemblyInfo.cs
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.CoreCompileInputs.cache
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.csproj.CopyComplete
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\refint\GRPCClient.dll
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.pdb
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\GRPCClient.genruntimeconfig.cache
+D:\uni\beadandok, oraik\szop\GRPCClient\GRPCClient\obj\Debug\net6.0-windows\ref\GRPCClient.dll
